@@ -14,6 +14,7 @@ export function Button({
   ...props
 }: ButtonProps) {
   const Comp = asChild ? Slot : 'button'
+
   return (
     <Comp
       className={clsx(
