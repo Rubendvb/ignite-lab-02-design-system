@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "deploy-storybook": "pnpm build-storybook && touch ./storybook-static/.nojekyll && gh-pages -d ./storybook-static -t true"
+    "deploy-storybook": "build-storybook && touch ./storybook-static/.nojekyll && gh-pages -d ./storybook-static -t true"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.0.15",
