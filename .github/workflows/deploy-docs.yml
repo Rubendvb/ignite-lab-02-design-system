@@ -19,7 +19,7 @@ steps:
       node-version: 18
 
   - name: Install dependencies
-    run: npm cli
+    run: npm cli --force
 
   - name: Build Storybook
     run: npm run build-storybook
