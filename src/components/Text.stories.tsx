@@ -6,7 +6,7 @@ export default {
   component: Text,
   tags: ['autodocs'],
   args: {
-    children: 'Máximo',
+    children: 'Text',
     size: 'md',
   },
   argTypes: {

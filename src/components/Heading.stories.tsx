@@ -6,7 +6,7 @@ export default {
   component: Heading,
   tags: ['autodocs'],
   args: {
-    children: 'Máximo',
+    children: 'Heading',
     size: 'md',
   },
   argTypes: {
