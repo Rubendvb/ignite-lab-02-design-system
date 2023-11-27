@@ -12,7 +12,7 @@ const config: StorybookConfig = {
     name: '@storybook/react-vite',
     options: {},
   },
-  async viteFinal(config, { configType }) {
+  viteFinal(config, { configType }) {
     if (configType === 'PRODUCTION') {
       config.base = '/ignite-lab-02-design-system/'
     }
