@@ -1,4 +1,4 @@
-# Ignite Lab 02 Design System
+# Ignite Lab 03 Design System
 
 Este é um projeto que apresenta um design system utilizando diversas tecnologias e ferramentas modernas para o desenvolvimento de interfaces e componentes reutilizáveis, feito no curso da Rockeseat.
 
@@ -7,7 +7,7 @@ Este é um projeto que apresenta um design system utilizando diversas tecnologia
 Clonar projeto
 
 ```bash
-  git clone git@github.com:Rubendvb/ignite-lab-02-design-system.git
+  git clone git@github.com:Rubendvb/ignite-lab-03-design-system.git
 ```
 
 Ir ao diretório do projeto
